@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\cheukinho\documents\visual studio 2015\projects\appopencv\appopencv\source.cpp(11): error C2059: erreur de syntaxe : 'if'
+c:\users\cheukinho\documents\visual studio 2015\projects\appopencv\appopencv\source.cpp(13): error C2059: erreur de syntaxe : 'for'
+c:\users\cheukinho\documents\visual studio 2015\projects\appopencv\appopencv\source.cpp(13): error C2143: erreur de syntaxe : absence de ')' avant ';'
+c:\users\cheukinho\documents\visual studio 2015\projects\appopencv\appopencv\source.cpp(13): error C2059: erreur de syntaxe : ')'
+c:\users\cheukinho\documents\visual studio 2015\projects\appopencv\appopencv\source.cpp(13): error C2447: '{' : en-tête de fonction manquant (liste formelle à l'ancien format ?)
+c:\users\cheukinho\documents\visual studio 2015\projects\appopencv\appopencv\source.cpp(17): error C3873: '0x201c' : ce caractère n'est pas autorisé comme premier caractère d'identifiant
+c:\users\cheukinho\documents\visual studio 2015\projects\appopencv\appopencv\source.cpp(17): error C3872: '0x201d' : ce caractère n'est pas autorisé dans un identificateur
